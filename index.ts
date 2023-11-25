@@ -109,8 +109,8 @@ console.log(!(n3 > 10)); ////
 // --------------------------------Git Bush------------------------
 //1- install git
 //2-git -v  
-//3- git config -- global user.name"Maher Adeel";  /* for globaly name */
-//4- git config -- global user.email"thisisadeelashraf@gmail.com"
+//3- git config --global user.name "Maher Adeel";  /* for globaly name */
+//4- git config --global user.email "thisisadeelashraf@gmail.com"
 //5- git config  
 //6- go vs code and commit (intilize repo)option  
 //7-install a extenion (GitLens) his benifits it's that it's shown how change our code and who change the code and shown its name.
